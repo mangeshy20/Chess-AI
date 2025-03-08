@@ -1,0 +1,6 @@
+10 moves from start no randomization starting with h4
+move sorting, simple eval with never_moved
+
+9.3s - no cache - 1 thread
+7.1 - no cache - 4 threads
+
